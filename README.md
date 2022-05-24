@@ -1,5 +1,7 @@
 This is not a library but a code to run in arduino ide.
 
+Download all the files to save in a new tab in your arduino ide.
+
 This is a demo of the virtual keyboard in the arduino using mcu-friend-3.5inch-display.
 
 The code runs for all the versions of the mcufriend display.
